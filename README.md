@@ -25,7 +25,7 @@ Invite the bot as normal to a server of your choosing.
 
 Go back to the "Bot" section and press "copy token".
 
-Go to Python IDLE and replace the "INSERT TOKEN HERE" with the seemingly random assortment of characters that you have copied. 
+Go to Python IDLE and replace the "INSERT TOKEN IN BETWEEN THE QUOTES" with the seemingly random assortment of characters that you have copied. 
 
 Press F5.
 

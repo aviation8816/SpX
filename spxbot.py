@@ -1,11 +1,12 @@
 #spx
 
-import discord 
-from discord.ext import commands
+import disnake 
+from disnake.ext import commands
 import asyncio
 from asyncio import sleep
 import time 
 
+discord=disnake (# too lazy to change)
 client = commands.Bot(command_prefix="-")
 
 @client.event

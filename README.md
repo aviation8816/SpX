@@ -1,9 +1,9 @@
 # SpX
-discord.py spam bot. Please use for testing purposes only.
+discord.py spam bot. 
 
 ## HOW TO USE ##
 
-Download python 3.8 @ https://www.python.org/ & Download the spxbot.py file.
+Download python 3.8 or higher @ https://www.python.org/ & Download the spxbot.py file.
 
 Make an application at https://discord.com/developers/applications. Name it.
 
@@ -11,11 +11,11 @@ Go to the bot section and create a bot.
 
 Go to the OAuth2 section and select "Bot".
 
-Scroll down to the bot permissions and select the permissions you want it to have. (permissions necessary for it to work are "Read Messages", "Send messages", and "Mention Everyone", but, if you're lazy, just select "Administrator".
+Scroll down to the bot permissions and select the permissions you want it to have. (permissions necessary for it to work are "Read Messages", "Send messages", and "Mention Everyone", but, if you're lazy, just select "Administrator").
 
-Copy the link generated above the permissions area and search it.
+Copy the url generated above the permissions area and paste it into the url bar.
 
-Invite the bot as normal to a server of your choosing.
+Invite the bot.
 
 Go back to the "Bot" section and press "copy token".
 
